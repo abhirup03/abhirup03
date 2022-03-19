@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+It's me....Abhirup a.k.a @AbhiDevForce! 
 
 - 🔭 I’m currently working on ... Salesforce Platform
 - 🌱 I’m currently learning ... Advanced JS, DS & Algorithms!
