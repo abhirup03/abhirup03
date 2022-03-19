@@ -3,7 +3,7 @@
 
 It's me....Abhirup a.k.a @AbhiDevForce! 
 
-- 🔭 I’m currently working on ... Salesforce Platform
+- 🔭 I’m currently working on ... Salesforce Platform - Developing Enterprise Applications(Leveraging Apex,LWC, JS & More), also I work on AWS & Heroku!
 - 🌱 I’m currently learning ... Advanced JS, DS & Algorithms!
 - 👯 I’m looking to collaborate on ... Salesforce projects, Integrations, Enterprise Application Designing. 
 - 🤔 I’m looking for help with ... AWS
