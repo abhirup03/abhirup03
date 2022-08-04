@@ -10,6 +10,6 @@ It's me....Abhirup a.k.a @AbhiDevForce!
 - 💬 Ask me about ... Anything!!
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/abhirup-mukherjee-8712b4106/)
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... During my free time I can be found mostly swiping left/right on Tinder! :D 
+- ⚡ Fun fact: ... During my free time I can be found mostly swiping left/right on Bumble! :D 
 
 <img src="https://github-readme-stats.vercel.app/api?username=abhirup03&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
