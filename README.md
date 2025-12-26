@@ -11,5 +11,5 @@ It's me....Abhirup a.k.a @AbhiDevForce!
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/abhirup-mukherjee-8712b4106/)
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... During my free time I can be found mostly swiping left/right on Bumble! :D
-[![trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophies](https://github-profile-trophy.vercel.app/?username=abhirup03&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <img src="https://github-profile-trophy.vercel.app/?username=abhirup03&theme=onedark"/>
