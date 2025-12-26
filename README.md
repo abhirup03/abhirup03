@@ -10,5 +10,5 @@ It's me....Abhirup a.k.a @AbhiDevForce!
 - 💬 Ask me about ... Anything!!
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/abhirup-mukherjee-8712b4106/)
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... During my free time I can be found mostly swiping left/right on Bumble! :D
+- ⚡ Fun fact: ... During my free time I can be found mostly chugging a cup of good coffee and surfing Instagram reels! :D 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abhirup03"/>
