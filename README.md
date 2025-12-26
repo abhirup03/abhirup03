@@ -11,4 +11,5 @@ It's me....Abhirup a.k.a @AbhiDevForce!
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/abhirup-mukherjee-8712b4106/)
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... During my free time I can be found mostly swiping left/right on Bumble! :D
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abhirup03"/>
 ![Metrics](https://metrics.lecoq.io/abhirup03?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta)
