@@ -12,7 +12,4 @@ It's me....Abhirup a.k.a @AbhiDevForce!
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... During my free time I can be found mostly swiping left/right on Bumble! :D
 - 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhirup03&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirup03&layout=compact&theme=radical" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=abhirup03&theme=onedark"/>
